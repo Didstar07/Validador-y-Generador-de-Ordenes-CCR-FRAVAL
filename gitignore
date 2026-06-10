@@ -1,0 +1,24 @@
+# Secretos de Streamlit (NUNCA subir a GitHub)
+.streamlit/secrets.toml
+
+# Entorno virtual de Python
+venv/
+.venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Excel temporales o de prueba (descomenta si aplica)
+# *.xlsx
+# *.xlsm
+
+# IDE
+.vscode/
+.idea/
